@@ -86,11 +86,11 @@ footer {
 .section-photo {
   display: flex;
   justify-content: center;
-  margin-top: 20px; /* Adjust spacing as needed */
+  margin-top: 20px; 
 }
 
 .section-photo img {
-  max-width: 100%; /* Ensure image does not exceed container width */
-  border-radius: 10px; /* Rounded corners for the frame */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Box shadow for the frame */
+  max-width: 100%; 
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
 }
